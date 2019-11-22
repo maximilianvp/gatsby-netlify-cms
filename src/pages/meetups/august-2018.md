@@ -19,10 +19,11 @@ presenters:
       Ben will tell us all about the power of functional programming,
       specifically memoization and how it can help speed up frequently used side
       effect-less functions.
+  - text: Some test
 location:
   mapsLatitude: 64.843779
   mapsLink: 'https://goo.gl/maps/LLgicn3zGuy'
   mapsLongitude: -147.718189
-  name: Fairbanks Ice Museum
+  name: Fairbanks Ice Museum Test
 ---
 
